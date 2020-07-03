@@ -2,5 +2,5 @@
 
 ## Install
 ```bash
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/xiote/dotfiles/master/install-zsh.sh)"
+git clone https://github.com/xiote/vim-plugins .vim/pack/plugins --recursive
 ```
